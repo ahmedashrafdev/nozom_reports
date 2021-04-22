@@ -24,7 +24,7 @@ func CreateServer(db *gorm.DB) error {
 		DbUser:     "mcs",
 		DbPassword: "123",
 		DbIP:       "192.168.1.167",
-		DbName:     "khedawy2020",
+		DbName:     "mcstree",
 		ServerName: "local",
 	}).Error
 }
